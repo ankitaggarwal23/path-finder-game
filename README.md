@@ -1,6 +1,6 @@
 # Path Finder Game
-Overview: 
+# Overview: 
 Our project title is “Path Finder Game”. What this means is that we are building a maze of any shape and size and search for a path through it. So, our goal is to create a Perfect Maze. More specifically, the maze we are building is a 2-Dimensional of fixed shape and size, in which the horizontal and vertical walls are connected in such a way, so that the point can move from given starting point to the ending point through the spaces formed by connecting walls, but point should never cross the wall.
 
-Working: 
+# Working: 
 The main working of Path Finder Game is to find out the path from given place to another place by using the movement of point. We use the special key button for the movement of point. The left key button is used to movement of point along the X-axis as the value decreases, The right key button is used to movement of point along the X-axis as the value increases, The up key button is used to movement of point along the y-axis as the value increases, the down key button is used to movement of point along the y-axis as the value decreases. There is also be given the time limitation, so it is necessary to find out the path within a given time interval.
